@@ -11,8 +11,5 @@ Features:
 -Dark mode/Light Mode
 
 -It is a simple and easy to use bot that is perfect for beginners and experts alike.
-
-
-
-
+------------------------------------------------------------------------------------------------
 Make sure to setup system enviroment variables for YOUR own API key.
