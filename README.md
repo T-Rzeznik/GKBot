@@ -1,11 +1,11 @@
 GUITAR KNOWLEDGE BOT
-
+------------------------------------------------------------------------------------------------
 -This witty bot is designed to help you learn guitar and answer any questions you have about it.
 
 -Designed for metalheads and techniqcal guitar players.
 
 Features:
-
+------------------------------------------------------------------------------------------------
 -It uses the OpenAI API to generate responses to user input.
 
 -Dark mode/Light Mode
