@@ -21,4 +21,5 @@ Run the Commands:
 
 2. python GKBot.py to start the bot.
 
-![Demo](https://github.com/user-attachments/assets/444c88e8-f6c8-4285-9c54-a68a519e5b65)
+![2024-07-20 13-58-46](https://github.com/user-attachments/assets/b11d2042-3a45-4a42-91ab-1987e5d80377)
+
