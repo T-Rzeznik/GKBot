@@ -2,7 +2,7 @@ GUITAR KNOWLEDGE BOT
 ------------------------------------------------------------------------------------------------
 -This witty bot is designed to help you learn guitar and answer any questions you have about it.
 
--Designed for metalheads and techniqcal guitar players.
+-Designed for metalheads and technical guitar players.
 
 Features:
 ------------------------------------------------------------------------------------------------
