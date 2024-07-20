@@ -1,2 +1,2 @@
-pip install openai
-pip install pillow
+openai==1.35.14
+pillow==10.2.0
