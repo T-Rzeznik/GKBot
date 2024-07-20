@@ -14,3 +14,9 @@ Features:
 
 ------------------------------------------------------------------------------------------------
 Make sure to setup system enviroment variables for YOUR own API key.
+
+Run the Commands:
+
+1. pip install -r requirements.txt
+
+2. python GKBot.py to start the bot.
